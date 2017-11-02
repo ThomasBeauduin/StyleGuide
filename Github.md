@@ -1,7 +1,7 @@
-FolderConv
-==========
+Github Style Guide
+==================
 
-> Github Folder structure naming conventions for software projects.
+> Github folder structure naming conventions for software projects.
 
 ### A typical top-level directory layout
 
@@ -9,7 +9,7 @@ FolderConv
     ├── build                   # Compiled files (alternatively `dist`)
     ├── docs                    # Documentation files (alternatively `doc`)
     ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
+    ├── tests                   # Automated tests (alternatively `spec` or `tests`)
     ├── tools                   # External Tools and utilities
     ├── LICENSE
     └── README.md
@@ -29,7 +29,7 @@ or into the `app` folder (if your application's source files are not supposed to
 
 Automated tests are usually placed into the `test` or, less commonly, into the `spec` or `tests` folder.
 
-   .
+    .
     ├── ...
     ├── test                    # Test files (alternatively `spec` or `tests`)
     │   ├── benchmarks          # Load and stress tests

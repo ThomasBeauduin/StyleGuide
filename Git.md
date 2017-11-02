@@ -1,12 +1,7 @@
-# Git Style Guide
+Git Style Guide
+===============
 
-# Table of contents
-
-1. [Branches](#branches)
-2. [Commits](#commits)
-  1. [Messages](#messages)
-3. [Merging](#merging)
-4. [Misc.](#misc)
+> Git branches, commits and comments convetions and shell commands.
 
 ## Branches
 
