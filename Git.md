@@ -1,7 +1,7 @@
 Git Style Guide
 ===============
 
-> Git branches, commits and comments convetions and shell commands.
+> Git branches, commits and comments conventions incl. shell commands.
 
 ## Branches
 

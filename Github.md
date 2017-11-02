@@ -9,7 +9,7 @@ Github Style Guide
     ├── build                   # Compiled files (alternatively `dist`)
     ├── docs                    # Documentation files (alternatively `doc`)
     ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── tests                   # Automated tests (alternatively `spec` or `tests`)
+    ├── tests                   # Automated tests (alternatively `spec`)
     ├── tools                   # External Tools and utilities
     ├── LICENSE
     └── README.md
@@ -27,11 +27,11 @@ or into the `app` folder (if your application's source files are not supposed to
 
 ### Automated tests
 
-Automated tests are usually placed into the `test` or, less commonly, into the `spec` or `tests` folder.
+Automated tests are usually placed into the `tests` or, less commonly, into the `spec` folder.
 
     .
     ├── ...
-    ├── test                    # Test files (alternatively `spec` or `tests`)
+    ├── tests                   # Test files (alternatively `spec`)
     │   ├── benchmarks          # Load and stress tests
     │   ├── integration         # End-to-end, integration tests (alternatively `e2e`)
     │   └── unit                # Unit tests
