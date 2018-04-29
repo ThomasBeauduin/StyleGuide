@@ -1,4 +1,4 @@
-Matlab conventions
+Matlab Style Guide
 ==================
 
 ## Naming conventions
@@ -24,6 +24,7 @@ e.g. COLOR_RED, COLOR_GREEN, COLOR_BLUE
 - Structure names should begin with a capital letter  
 e.g. Segment.length, Acme.sourceName
 - field names should follow variables conventions.
+- Array of cells are a Neanderthal approach to structuring data, hence, seperate it from structures by writing it in full upper-case. 
 
 ### Functions
 - Write names of functions in lower case (like matlab).  
