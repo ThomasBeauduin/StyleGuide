@@ -1,6 +1,8 @@
 Matlab Style Guide
 ==================
 
+> Matlab code naming, layout and documentation conventions.
+
 ## Naming conventions
 
 ### Variables
